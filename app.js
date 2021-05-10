@@ -1,5 +1,5 @@
 let friends = ["Chris", "Kvoth", "Bast", "Taborlin", "Arliden"];
-
+// selects friends and decreases the number of codes numCode 
 for (f = 0; f < friends.length; f++){
     let friend = friends[f]; {
         for (numCode = 99; numCode > 0; numCode--) {
